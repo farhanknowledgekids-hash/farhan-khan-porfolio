@@ -1,0 +1,13 @@
+{
+  "name": "dental-clinic-websites-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Farhan Khan — websites for Mumbai dental clinics, with three demo concepts.",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs dist"
+  },
+  "engines": { "node": ">=18" }
+}
